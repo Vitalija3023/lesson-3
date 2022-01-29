@@ -1,0 +1,37 @@
+body{
+   background-color: #100e13;
+}
+a{
+   color: #9f9ff0;
+}
+.container{
+   color: aliceblue;
+}
+.title{
+   color: yellow;
+}
+h1{
+   color: #f1e07b;
+}
+
+.year2022 p{
+   color:#7528e7;
+}
+
+.year2022 .year2022-span{
+   color: #f1a67b;
+}
+
+.print-text{
+   color: #cf9109;
+}
+.print-text-p{
+   color: #3b5abe;
+}
+[class*="color-"]{
+   color: #f1a67b;
+}
+
+.very-peri{
+   color: #3b5abe;
+}
